@@ -1,0 +1,75 @@
+.title-color{
+    font-family: Helvetica, sans-serif;
+    letter-spacing: .7px;
+    font-size: 18pt;
+    font-weight: 600;
+    color: rgb(203, 159, 233)
+    
+    
+}
+
+body {
+    background-image: url('../assets/images/ignasi_pattern_s.png');
+}
+
+.container {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.image-paragraph-divider {
+    border-top: .5px solid rgb(180, 180, 180);
+    padding-top: 20px;
+    margin-right: 20px;
+}
+
+.card-body{
+    padding-bottom: 50px;
+    margin-left: 15px;
+
+}
+
+h1 {
+    color:#6c4086;
+    font-family: Helvetica, sans-serif;
+    letter-spacing: .7px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 12pt;
+}
+
+img {
+    min-width: 250px;
+    max-width: 350px;
+    border: solid 1px #616161;
+    margin-top: 5px
+    
+}
+
+.page-footer {
+    border-top: 5px solid #6c4086;
+    background-color: #616161;
+    position:fixed;bottom:0;left:0;right:0;
+
+
+}
+
+
+.form-group{
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+.button{
+    background-color:#6c4086;
+    border: 7px solid #6c4086;
+    margin-bottom: -30px;
+}
+
+.navbar-color{
+    background-color: #6c4086;
+}
