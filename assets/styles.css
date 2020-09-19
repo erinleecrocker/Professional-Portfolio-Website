@@ -57,7 +57,10 @@ img {
 
 
 }
-
+.card-body-style {
+    outline: solid 20px #6c4086;
+    
+}
 
 .form-group{
     margin-right: 100px;
