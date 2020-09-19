@@ -12,6 +12,13 @@ body {
     background-image: url('../assets/images/ignasi_pattern_s.png');
 }
 
+a {
+
+    color: #6c4086;
+
+
+}
+
 .container {
     padding-top: 70px;
     padding-bottom: 70px;
@@ -44,12 +51,14 @@ p{
 
 img {
     min-width: 250px;
-    max-width: 350px;
+    max-width: 700px;
     border: solid 1px #616161;
-    margin-top: 5px
+    margin-top: 10px;
     
 }
-
+figcaption {
+    font-size: 20pt;
+}
 .page-footer {
     border-top: 5px solid #6c4086;
     background-color: #616161;
