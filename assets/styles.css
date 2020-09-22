@@ -1,23 +1,43 @@
+/* navbar background color */
+.navbar {
+    background-color: #624C83;
+    color: white;
+}
+/* heading for navbar */
+.navbar-custom {
+    color: white;
+}
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+/* links in navbar */
+.nav-link {
+    color: white;
+}
+/* Toggler color */
+.navbar-toggler {
+    background-color: white;
+}
+/* hover over links color */
+a:hover {
+    color: #FFF145;
+}
+
+
+
 .title-color{
     font-family: Helvetica, sans-serif;
     letter-spacing: .7px;
     font-size: 18pt;
     font-weight: 600;
-    color: rgb(203, 159, 233)
-    
-    
+    color: rgb(176, 130, 207)
 }
 
 body {
     background-image: url('../assets/images/ignasi_pattern_s.png');
 }
 
-a {
-
-    color: #6c4086;
-
-
-}
 
 .container {
     padding-top: 70px;
