@@ -63,7 +63,7 @@ body {
     padding-top: 70px;
     padding-bottom: 70px;
     margin-left: auto;
-    margin-bottom: auto;
+    margin-bottom: 50px;
 }
 .portfolio-content {
     margin-left: auto;
@@ -100,6 +100,11 @@ h1 {
 p{
     font-size: 12pt;
 }
+.card-img-top {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
 
 #profile-img {
     min-width: auto;
@@ -115,8 +120,8 @@ figcaption {
     font-size: 18pt;
 }
 .page-footer {
-    border-top: 5px solid #6c4086;
-    background-color: #616161;
+    border-top: 5px solid rgb(0, 118, 173);
+    background-color:rgb(27, 154, 212);
     position:fixed;bottom:0;left:0;right:0;
 
 
@@ -137,6 +142,7 @@ figcaption {
     background-color: rgb(27, 154, 212);
     border: 7px solid rgb(27, 154, 212);
     margin-bottom: -30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .button:hover {
     background-color:  rgb(0, 118, 173);
